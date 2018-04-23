@@ -1,1 +1,3 @@
-# SMSF042018
+# Shepherd Maple Syrup Festival
+
+## Visitor's Guide
