@@ -1,0 +1,24 @@
+---
+---
+ID: 1945
+post_title: Sponsors
+author: ng23055
+post_excerpt:
+layout: page
+permalink: >
+  http://www.shepherdmaplesyrupfest.org/sponsors/
+published: true
+post_date: 2018-04-12 23:44:21
+---
+Thank you to the sponsors of the Shepherd Maple Syrup Festival Parade:
+<ul>
+ 	<li>Bridge &amp; Beacon Market</li>
+ 	<li>Highland Plastics</li>
+ 	<li>Mid-Michigan Insurance Agency</li>
+ 	<li>Zimmerman Insurance</li>
+ 	<li>Hair Razor</li>
+ 	<li>Isabella Bank</li>
+ 	<li>Coyne Oil</li>
+ 	<li>Blarney Castle Oil Co</li>
+ 	<li>Shepherd Bar and Restaurant</li>
+</ul>
