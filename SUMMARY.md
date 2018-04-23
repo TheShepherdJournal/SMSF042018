@@ -4,8 +4,8 @@
 
 * [Friends of the Library to give away children's books](_posts/2018-01-28-friends-of-the-library-to-give-away-childrens-books-during-festival.md)
 * [Parade to honor Shepherd Maple Syrup Festival's 60th Anniversary](_posts/2018-02-03-parade-to-honor-shepherd-maple-syrup-festivals-60th-anniversary.md)
-
 * [Volunteers still needed for pancake dinners](_posts/2018-04-22-volunteers-still-needed-for-pancake-dinners.md)
+* [Princess Pageant](_posts/2018-04-21-princess-pageant-to-take-place-april-24.md)
 
 ## Festival Events
 
