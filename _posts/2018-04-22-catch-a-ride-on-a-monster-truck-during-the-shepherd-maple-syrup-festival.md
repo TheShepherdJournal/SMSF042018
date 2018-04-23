@@ -18,6 +18,14 @@ Visitors to the 60th Annual Shepherd Maple Syrup Festival will have the chance t
 
 The costs of the rides is $8 per passenger, or $15 for groups of two. Stunt driver Shelley Kujat will also be on hand to talk to fans and sign autographs.
 
+The monster truck rides will be available during the following times:
+<ul>
+ 	<li>Thursday 2 p.m. - 7 p.m.</li>
+ 	<li>Friday 12 p.m. - 7 p.m.</li>
+ 	<li>Saturday 10 a.m. - 7 p.m.</li>
+</ul>
+&nbsp;
+
 <img title="" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/04/null-2.jpeg" alt="" width="480" height="720" />
 
 ###
