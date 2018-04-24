@@ -10,22 +10,8 @@ permalink: >
 published: true
 post_date: 2018-02-24 16:14:15
 ---
-[tabby title="Information"]
-
 &nbsp;
-
-TBD
-
-[tabby title="Posts"]
 
 [ic_add_posts category='Childrens Village']
-
-[tabby title="Downloads"]
-
-TBD
-
-&nbsp;
-
-[tabbyending]
 
 &nbsp;
