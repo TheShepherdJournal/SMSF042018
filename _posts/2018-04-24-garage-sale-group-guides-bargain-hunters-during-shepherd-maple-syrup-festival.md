@@ -8,8 +8,9 @@ author: ng23055
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/?p=2092
-published: false
+  http://www.shepherdmaplesyrupfest.org/garage-sale-group-guides-bargain-hunters-during-shepherd-maple-syrup-festival/
+published: true
+post_date: 2018-04-24 03:04:10
 ---
 [caption id="" align="alignnone" width="462"]<img src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/04/null-3.jpeg" alt="" width="462" height="501" /> Jeff Parsons[/caption]
 
