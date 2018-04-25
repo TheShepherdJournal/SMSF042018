@@ -2,7 +2,7 @@
 ---
 ID: 2175
 post_title: >
-  Winner of 2018 SMSF Princess Pageant
+  Winners of 2018 SMSF Princess Pageant
   Announced
 author: Jon Morgan
 post_excerpt:
@@ -12,6 +12,8 @@ permalink: >
 published: true
 post_date: 2018-04-25 16:35:59
 ---
+<img class="alignnone size-medium wp-image-2177" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/04/100_4876_cropped-300x221.jpg" alt="" width="300" height="221" />
+
 <span style="font-weight: 400;">The 2018 Princesses and Runner Ups were crowned Tuesday night during the Shepherd Maple Syrup Festival Princess pageant.  The pageant theme was “Boots and Tiaras,” and the evening was lead by master of ceremonies Deb McLoughlin.</span>
 
 <span style="font-weight: 400;">Highlights of the pageant included the talent portion, during which contestants sang, dance, read a poem, and gave a speech, and a questions portion during which contestants each responded to a question. The 2017 Princesses and Runner Ups were on hand to describe their experience and to help during the crowning ceremony.</span>
