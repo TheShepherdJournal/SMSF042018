@@ -12,7 +12,7 @@ permalink: >
   http://www.shepherdmaplesyrupfest.org/?p=2182
 published: false
 ---
-<p></p>
+<p><img src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/04/null-3.png" width="624" height="481" alt="" title=""></p>
 <p></p>
 <p>BOOK GIVEAWAY</p>
 <p>FREE BOOKS FOR KIDS</p>
