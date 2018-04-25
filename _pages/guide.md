@@ -17,8 +17,8 @@ post_date: 2018-04-25 14:27:19
 [tabby title="Contacts"]
 <ul>
  	<li>Pete Alexander - (989) 828-5422</li>
- 	<li>Jon Morgan</li>
- 	<li>Kara Bouman</li>
+ 	<li><a href="mailto:editor@shepherdhistory.org">Jon Morgan</a></li>
+ 	<li><a href="mailto:karajoedwards@gmail.com">Kara Bouman</a></li>
 </ul>
 [tabby title="Resources"]
 <h3>Websites</h3>
