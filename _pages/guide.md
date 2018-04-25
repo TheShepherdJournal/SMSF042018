@@ -14,6 +14,30 @@ post_date: 2018-04-25 14:27:19
 
 [ic_add_posts category='News']
 
+[tabby title="Contacts"]
+<ul>
+ 	<li>Pete Alexander</li>
+ 	<li>Jon Morgan</li>
+ 	<li>Kara Bouman</li>
+</ul>
+[tabby title="Resources"]
+<h3>Websites</h3>
+<ul>
+ 	<li><a href="http://www.villageofshepherd.org/">Village of Shepherd</a></li>
+ 	<li><a href="http://www.runmsf.com/">13th Annual Shepherd Maple Syrup Festival 5k Run/Non Competitive Walk and 10k Run</a></li>
+ 	<li><a href="http://www.shepherdschools.net/">Shepherd Public Schools</a></li>
+ 	<li><a href="http://www.shepherdsugarbush.com/">Shepherd Sugar Bush</a></li>
+</ul>
+<h3>Facebook Pages</h3>
+<ul>
+ 	<li>Shepherd Maple Syrup Festival</li>
+ 	<li><a href="https://www.facebook.com/Shepherd-Police-Department-205632619455314/">Shepherd Police Department</a></li>
+</ul>
+<h3>Facebook Events</h3>
+&nbsp;
+
+[ic_add_posts category='media']
+
 [tabby title="Destinations"]
 
 [ic_add_posts category='destinations']
