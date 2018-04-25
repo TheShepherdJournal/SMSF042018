@@ -18,7 +18,7 @@ post_date: 2018-04-25 14:27:19
 
 [ic_add_posts category='events']
 
-[tabby title="Media"]
+[tabby title="Photos"]
 
 TBD
 
