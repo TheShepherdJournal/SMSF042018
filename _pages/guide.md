@@ -30,10 +30,17 @@ post_date: 2018-04-25 14:27:19
 </ul>
 <h3>Facebook Pages</h3>
 <ul>
- 	<li>Shepherd Maple Syrup Festival</li>
+ 	<li><a href="https://www.facebook.com/shepherdmaplesyrupfestival/">Shepherd Maple Syrup Festival</a></li>
  	<li><a href="https://www.facebook.com/Shepherd-Police-Department-205632619455314/">Shepherd Police Department</a></li>
+ 	<li><a class="_64-f" href="https://www.facebook.com/Shepherd-Maple-Syrup-Festival-5K-10K-561132500586691/">Shepherd Maple Syrup Festival 5K &amp; 10K</a></li>
+ 	<li><a href="https://www.facebook.com/ShepherdQueenPageant/">Shepherd Royalty Pageant</a></li>
+ 	<li>Shepherd Princess Pageant</li>
 </ul>
 <h3>Facebook Events</h3>
+<ul>
+ 	<li><a href="https://www.facebook.com/events/751216701736248/">Shepherd Maple Syrup Festival Parade</a></li>
+ 	<li><a href="https://www.facebook.com/events/919353271572619/">CMAC Concert</a></li>
+</ul>
 &nbsp;
 
 [ic_add_posts category='media']
