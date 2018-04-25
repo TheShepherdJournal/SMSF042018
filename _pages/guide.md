@@ -41,8 +41,6 @@ post_date: 2018-04-25 14:27:19
  	<li><a href="https://www.facebook.com/events/751216701736248/">Shepherd Maple Syrup Festival Parade</a></li>
  	<li><a href="https://www.facebook.com/events/919353271572619/">CMAC Concert</a></li>
 </ul>
-&nbsp;
-
 [ic_add_posts category='media']
 
 [tabby title="Destinations"]
