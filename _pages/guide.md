@@ -6,7 +6,7 @@ author: Jon Morgan
 post_excerpt:
 layout: page
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/shepherd-maple-syrup-festival-visitors-guide/
+  http://www.shepherdmaplesyrupfest.org/guide/
 published: true
 post_date: 2018-04-25 14:27:19
 ---
