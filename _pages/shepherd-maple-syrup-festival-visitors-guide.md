@@ -10,6 +10,10 @@ permalink: >
 published: true
 post_date: 2018-04-25 14:27:19
 ---
+[tabby title="News"]
+
+[ic_add_posts category='News']
+
 [tabby title="Destinations"]
 
 [ic_add_posts category='destinations']
