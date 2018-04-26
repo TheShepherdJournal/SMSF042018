@@ -45,9 +45,13 @@ View the full list of <a href="http://www.shepherdmaplesyrupfest.org/directory/"
 </ul>
 [tabby title="Destinations"]
 
+<a href="http://www.shepherdmaplesyrupfest.org/event/">Click here to view the full calendar of events</a>
+
 [ic_add_posts category='destinations']
 
 [tabby title="Events"]
+
+<a href="http://www.shepherdmaplesyrupfest.org/event/">Click here to view the full calendar of events</a>
 
 [ic_add_posts category='events']
 
