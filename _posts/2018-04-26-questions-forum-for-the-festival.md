@@ -13,6 +13,8 @@ post_date: 2018-04-26 03:57:21
 <div class="" data-block="true" data-editor="tdmp" data-offset-key="cmvpn-0-0">
 <div class="_1mf _1mj" data-offset-key="cmvpn-0-0">
 <div class="" data-block="true" data-editor="tdmp" data-offset-key="cmvpn-0-0">
+<div class="_1mf _1mj" data-offset-key="cmvpn-0-0"><span data-offset-key="cmvpn-0-0"><img class="alignnone size-medium wp-image-2213" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/04/chrome_2018-04-25_23-46-05-300x145.png" alt="" width="300" height="145" /></span></div>
+<div data-offset-key="cmvpn-0-0"></div>
 <div class="_1mf _1mj" data-offset-key="cmvpn-0-0"><span data-offset-key="cmvpn-0-0">This year, the SMSF website features a questions and answers forum where visitors can post any questions they have, or respond with answers to questions that others have posted.</span></div>
 </div>
 <div class="" data-block="true" data-editor="tdmp" data-offset-key="ts3a-0-0">
