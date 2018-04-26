@@ -15,6 +15,8 @@ post_date: 2018-04-25 14:27:19
 [ic_add_posts category='News']
 
 [tabby title="Contacts"]
+
+View the full list of <a href="http://www.shepherdmaplesyrupfest.org/directory/">contact information here</a>
 <ul>
  	<li>Pete Alexander - (989) 828-5422</li>
  	<li><a href="mailto:editor@shepherdhistory.org">Jon Morgan</a></li>
