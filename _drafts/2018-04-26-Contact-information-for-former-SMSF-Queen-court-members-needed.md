@@ -11,7 +11,7 @@ permalink: >
   http://www.shepherdmaplesyrupfest.org/?p=2253
 published: false
 ---
-Clif Lehner is working<img class="alignnone size-medium wp-image-1960" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/04/null-1-300x188.png" alt="" width="300" height="188" /> to get in touch with former SMSF Queen court members so that he can invite them to participate during the parade on Sunday. He is seeking contact information for the following former court members from the 1960's.
+Clif Lehner is working to get in touch with former SMSF Queen court members so that he can invite them to participate during the parade on Sunday. He is seeking contact information for the following former court members from the 1960's.
 <ul>
  	<li>1964 Carla Eisenberger Curtiss</li>
  	<li>1965 Margaret Ann Stalter Oaks</li>
@@ -20,4 +20,4 @@ Clif Lehner is working<img class="alignnone size-medium wp-image-1960" src="http
  	<li>1968 Pat Wischmeyer</li>
  	<li>1969 Kathy Walker Reeves</li>
 </ul>
-If you can, please forward this post to them or ask them to get in touch with Clif at 989 506 4728 or by email at clehner50@gmail.com.
+If you can, please forward this post to them or ask them to get in touch with Clif at (989) 506 4728 or by email at clehner50@gmail.com.
