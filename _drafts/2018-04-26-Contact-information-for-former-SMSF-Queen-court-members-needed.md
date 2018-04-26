@@ -11,6 +11,13 @@ permalink: >
   http://www.shepherdmaplesyrupfest.org/?p=2253
 published: false
 ---
-Clif Lehner is looking for contact information for the following former court members from the 1960's.
-
-&nbsp;
+Clif Lehner is trying to get in touch with former SMSF Queen court members so that he can invite them to participate during the parade on Sunday. He is seeking contact information for the following former court members from the 1960's.
+<ul>
+ 	<li>1964 Carla Eisenberger Curtiss</li>
+ 	<li>1965 Margaret Ann Stalter Oaks</li>
+ 	<li>1966 Margaret Leheigh Caszatt</li>
+ 	<li>1967 Kathy Wilberding Swedorski</li>
+ 	<li>1968 Pat Wischmeyer</li>
+ 	<li>1969 Kathy Walker Reeves</li>
+</ul>
+Pleas
