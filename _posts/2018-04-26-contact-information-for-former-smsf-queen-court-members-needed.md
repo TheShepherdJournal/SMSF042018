@@ -8,8 +8,9 @@ author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/?p=2253
-published: false
+  http://www.shepherdmaplesyrupfest.org/contact-information-for-former-smsf-queen-court-members-needed/
+published: true
+post_date: 2018-04-26 13:19:54
 ---
 Clif Lehner is working to get in touch with former SMSF Queen court members so that he can invite them to participate during the parade on Sunday. He is seeking contact information for the following former court members from the 1960's.
 <ul>
@@ -20,4 +21,4 @@ Clif Lehner is working to get in touch with former SMSF Queen court members so t
  	<li>1968 Pat Wischmeyer</li>
  	<li>1969 Kathy Walker Reeves</li>
 </ul>
-If you can, please forward this post to them or ask them to get in touch with Clif at (989) 506 4728 or by email at clehner50@gmail.com.
+If you can, please forward this post to them or ask them to get in touch with Clif at (989) 506 4728 or by email at <a href="mailto:clehner50@gmail.com">clehner50@gmail.com</a>.
