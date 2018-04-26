@@ -6,8 +6,9 @@ author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/?p=2211
-published: false
+  http://www.shepherdmaplesyrupfest.org/questions-forum-for-the-festival/
+published: true
+post_date: 2018-04-26 03:57:21
 ---
 <div class="" data-block="true" data-editor="tdmp" data-offset-key="cmvpn-0-0">
 <div class="_1mf _1mj" data-offset-key="cmvpn-0-0">
@@ -20,23 +21,15 @@ published: false
 <div class="" data-block="true" data-editor="tdmp" data-offset-key="2urnq-0-0">
 <div class="_1mf _1mj" data-offset-key="2urnq-0-0"><span data-offset-key="2urnq-0-0">I am inviting festival attendees, residents, event coordinators, committee members, and organization leaders to check out this section of the website and help develop this resource by doing the following:</span></div>
 </div>
-<div class="" data-block="true" data-editor="tdmp" data-offset-key="b6gbt-0-0">
-<div class="_1mf _1mj" data-offset-key="b6gbt-0-0"><span data-offset-key="b6gbt-0-0"> </span></div>
-</div>
 <div class="" data-block="true" data-editor="tdmp" data-offset-key="29oo2-0-0">
-<div class="_1mf _1mj" data-offset-key="29oo2-0-0"><span data-offset-key="29oo2-0-0">Posting questions about the festival </span></div>
-</div>
-<div class="" data-block="true" data-editor="tdmp" data-offset-key="em7mc-0-0">
-<div class="_1mf _1mj" data-offset-key="em7mc-0-0"><span data-offset-key="em7mc-0-0">Posting the questions you commonly hear from the public, then responding to them with the most correct answer</span></div>
-</div>
-<div class="" data-block="true" data-editor="tdmp" data-offset-key="dfe3m-0-0">
-<div class="_1mf _1mj" data-offset-key="dfe3m-0-0"><span data-offset-key="dfe3m-0-0">Following up with posted answers with a response of your own if you know of additional details that are relevant, or if you see a way of clarifying what has been written so far.</span></div>
+<ol>
+ 	<li class="_1mf _1mj" data-offset-key="29oo2-0-0"><span data-offset-key="29oo2-0-0">Posting questions about the festival</span></li>
+ 	<li class="_1mf _1mj" data-offset-key="29oo2-0-0">Posting the questions you commonly hear from the public, then responding to them with the most correct answer</li>
+ 	<li class="_1mf _1mj" data-offset-key="29oo2-0-0">Following up with posted answers with a response of your own if you know of additional details that are relevant, or if you see a way of clarifying what has been written so far.</li>
+</ol>
 </div>
 <div class="" data-block="true" data-editor="tdmp" data-offset-key="12nc4-0-0">
-<div class="_1mf _1mj" data-offset-key="12nc4-0-0"><span data-offset-key="12nc4-0-0"> </span></div>
-</div>
-<div class="" data-block="true" data-editor="tdmp" data-offset-key="2snjt-0-0">
-<div class="_1mf _1mj" data-offset-key="2snjt-0-0"><span data-offset-key="2snjt-0-0">Answers can also be voted up or down based on their accuracy and clarity.</span></div>
+<div class="_1mf _1mj" data-offset-key="12nc4-0-0">Answers can also be voted up or down based on their accuracy and clarity.</div>
 </div>
 <div class="" data-block="true" data-editor="tdmp" data-offset-key="95a7l-0-0">
 <div class="_1mf _1mj" data-offset-key="95a7l-0-0"><span data-offset-key="95a7l-0-0"> </span></div>
@@ -48,7 +41,7 @@ published: false
 <div class="_1mf _1mj" data-offset-key="6g624-0-0"><span data-offset-key="6g624-0-0"> </span></div>
 </div>
 <div class="" data-block="true" data-editor="tdmp" data-offset-key="1jtdu-0-0">
-<div class="_1mf _1mj" data-offset-key="1jtdu-0-0"><span data-offset-key="1jtdu-0-0">http://www.shepherdmaplesyrupfest.org/questions/</span></div>
+<div class="_1mf _1mj" data-offset-key="1jtdu-0-0"><a href="http://www.shepherdmaplesyrupfest.org/questions/"><span data-offset-key="1jtdu-0-0">http://www.shepherdmaplesyrupfest.org/questions/</span></a></div>
 </div>
 <div class="" data-block="true" data-editor="tdmp" data-offset-key="7hrh9-0-0">
 <div class="_1mf _1mj" data-offset-key="7hrh9-0-0"><span data-offset-key="7hrh9-0-0"> </span></div>
@@ -60,7 +53,7 @@ published: false
 <div class="_1mf _1mj" data-offset-key="2fh12-0-0"><span data-offset-key="2fh12-0-0"> </span></div>
 </div>
 <div class="" data-block="true" data-editor="tdmp" data-offset-key="4go99-0-0">
-<div class="_1mf _1mj" data-offset-key="4go99-0-0"><span data-offset-key="4go99-0-0">http://www.shepherdmaplesyrupfest.org/forum/</span></div>
+<div class="_1mf _1mj" data-offset-key="4go99-0-0"><a href="http://www.shepherdmaplesyrupfest.org/forum/"><span data-offset-key="4go99-0-0">http://www.shepherdmaplesyrupfest.org/forum/</span></a></div>
 </div>
 </div>
 </div>
