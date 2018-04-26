@@ -20,4 +20,4 @@ Clif Lehner is trying to get in touch with former SMSF Queen court members so th
  	<li>1968 Pat Wischmeyer</li>
  	<li>1969 Kathy Walker Reeves</li>
 </ul>
-If you can, please forward this post to them or ask them to get in touch with Clif at
+If you can, please forward this post to them or ask them to get in touch with Clif at 989 506 4728 or by email at clehner50@gmail.com.
