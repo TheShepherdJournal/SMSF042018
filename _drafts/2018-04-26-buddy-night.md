@@ -6,9 +6,8 @@ author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/buddy-night/
-published: true
-post_date: 2018-04-26 01:42:38
+  http://www.shepherdmaplesyrupfest.org/?p=2196
+published: false
 ---
 <img title="" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/04/null-4.jpeg" alt="" width="624" height="468" />
 
