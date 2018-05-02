@@ -22,6 +22,7 @@ Thank you to the sponsors of the Shepherd Maple Syrup Festival Parade:
  	<li>Hair Razor</li>
  	<li>Isabella Bank</li>
  	<li>Coyne Oil</li>
- 	<li>Blarney Castle Oil Co.</li>
+ 	<li>Shepherd Shell - Blarney Castle Oil Co.</li>
  	<li>Representative John Moolenaar</li>
+ 	<li>Morbark</li>
 </ul>
