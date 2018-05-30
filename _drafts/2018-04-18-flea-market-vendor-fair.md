@@ -2,13 +2,12 @@
 ---
 ID: 297
 post_title: Flea Market Vendor Fair
-author: ng23055
+author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/flea-market-vendor-fair/
-published: true
-post_date: 2018-04-18 18:27:01
+  http://www.shepherdmaplesyrupfest.org/?p=297
+published: false
 ---
 <b>Location:</b> Soccer Field, North Second Street. Entrance off N. Second Street or South Shepherd Road
 
