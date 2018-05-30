@@ -8,9 +8,8 @@ author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/winner-of-2018-smsf-princess-pageant-announced/
-published: true
-post_date: 2018-04-25 16:35:59
+  http://www.shepherdmaplesyrupfest.org/?p=2175
+published: false
 ---
 <img class="alignnone size-medium wp-image-2177" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/04/100_4876_cropped-300x221.jpg" alt="" width="300" height="221" />
 
