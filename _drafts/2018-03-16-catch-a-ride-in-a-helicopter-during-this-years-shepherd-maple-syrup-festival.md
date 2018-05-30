@@ -4,13 +4,12 @@ ID: 1174
 post_title: >
   Catch a ride in a helicopter during this
   year’s Shepherd Maple Syrup Festival
-author: ng23055
+author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/catch-a-ride-in-a-helicopter-during-this-years-shepherd-maple-syrup-festival/
-published: true
-post_date: 2018-03-16 02:50:27
+  http://www.shepherdmaplesyrupfest.org/?p=1174
+published: false
 ---
 <img class="alignnone size-medium wp-image-1175" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/03/null-1-300x215.png" alt="" width="300" height="215" />
 
