@@ -2,13 +2,12 @@
 ---
 ID: 2028
 post_title: Princess Pageant to take place April 24
-author: ng23055
+author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/princess-pageant-to-take-place-april-24/
-published: true
-post_date: 2018-04-21 16:15:53
+  http://www.shepherdmaplesyrupfest.org/?p=2028
+published: false
 ---
 [caption id="attachment_2033" align="alignnone" width="300"]<img class="wp-image-2033 size-medium" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/04/31059475_10211994352194813_1304196454704742400_n-300x225.jpg" alt="" width="300" height="225" /> Photo courtesy of Shannon Wilcox[/caption]
 
