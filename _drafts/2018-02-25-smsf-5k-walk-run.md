@@ -2,13 +2,12 @@
 ---
 ID: 824
 post_title: SMSF 5K Walk/Run
-author: ng23055
+author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/smsf-5k-walk-run/
-published: true
-post_date: 2018-02-25 16:40:22
+  http://www.shepherdmaplesyrupfest.org/?p=824
+published: false
 ---
 Today’s featured Shepherd Maple Syrup Festival event is the 5K Walk/Run which typically takes place on Saturday morning during the festival. The Run will take place this year on April 28, 2018. Participants can register by going to the website <a href="http://www.runmsf.com/">here</a>.
 
