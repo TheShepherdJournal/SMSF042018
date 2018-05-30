@@ -5,13 +5,12 @@ post_title: >
   Joyce Leonard and Tumbleweed Band to
   perform during SMSF Community Dance
   April 28
-author: ng23055
+author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/michigans-yodeling-sweetheart-and-tumbleweed-band-to-perform-during-smsf-community-dance-april-28/
-published: true
-post_date: 2018-03-10 21:51:30
+  http://www.shepherdmaplesyrupfest.org/?p=1128
+published: false
 ---
 <img class="alignnone size-medium wp-image-1129" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/03/null-300x160.png" alt="" width="300" height="160" />
 
