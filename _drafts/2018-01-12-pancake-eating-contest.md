@@ -2,13 +2,12 @@
 ---
 ID: 303
 post_title: Pancake Eating Contest
-author: ng23055
+author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/pancake-eating-contest/
-published: true
-post_date: 2018-01-12 23:53:08
+  http://www.shepherdmaplesyrupfest.org/?p=303
+published: false
 ---
 &nbsp;
 
