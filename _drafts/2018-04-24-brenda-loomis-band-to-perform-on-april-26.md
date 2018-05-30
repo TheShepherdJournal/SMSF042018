@@ -8,9 +8,8 @@ author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/brenda-loomis-band-to-perform-on-april-26/
-published: true
-post_date: 2018-04-24 19:21:38
+  http://www.shepherdmaplesyrupfest.org/?p=2120
+published: false
 ---
 <img class="alignnone size-medium wp-image-2121" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/04/29178838_551713081869958_2766943183089117371_n-300x200.jpg" alt="" width="300" height="200" />
 
