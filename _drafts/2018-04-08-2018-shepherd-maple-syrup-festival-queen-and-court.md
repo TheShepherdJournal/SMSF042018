@@ -4,13 +4,12 @@ ID: 1931
 post_title: >
   2018 Shepherd Maple Syrup Festival Queen
   and Court
-author: ng23055
+author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/2018-shepherd-maple-syrup-festival-queen-and-court/
-published: true
-post_date: 2018-04-08 22:41:09
+  http://www.shepherdmaplesyrupfest.org/?p=1931
+published: false
 ---
 <img class="alignnone size-medium wp-image-1936" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/04/chrome_2018-04-08_18-44-04-300x124.png" alt="" width="300" height="124" />
 
