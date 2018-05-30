@@ -2,13 +2,12 @@
 ---
 ID: 1959
 post_title: 'Former members of Past Festival Queen&#8217;s Courts Invited to participate in the 2018 SMSF Parade'
-author: ng23055
+author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/former-members-of-past-festival-queens-courts-invited-to-participate-in-the-2018-smsf-parade/
-published: true
-post_date: 2018-04-13 11:42:34
+  http://www.shepherdmaplesyrupfest.org/?p=1959
+published: false
 ---
 <img title="" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/04/null-1.png" alt="" width="312" height="194" />
 
