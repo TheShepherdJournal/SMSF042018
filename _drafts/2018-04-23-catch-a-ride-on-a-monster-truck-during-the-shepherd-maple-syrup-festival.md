@@ -4,13 +4,12 @@ ID: 2067
 post_title: >
   Catch a ride on a monster truck during
   the Shepherd Maple Syrup Festival
-author: ng23055
+author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/catch-a-ride-on-a-monster-truck-during-the-shepherd-maple-syrup-festival/
-published: true
-post_date: 2018-04-23 12:12:01
+  http://www.shepherdmaplesyrupfest.org/?p=2067
+published: false
 ---
 <img title="" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/04/null-1.jpeg" alt="" width="624" height="468" />
 
