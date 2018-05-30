@@ -2,13 +2,12 @@
 ---
 ID: 1141
 post_title: Parade Floats Needed
-author: ng23055
+author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/parade-floats-needed/
-published: true
-post_date: 2018-03-12 15:43:43
+  http://www.shepherdmaplesyrupfest.org/?p=1141
+published: false
 ---
 Upon viewing a home movie of a very early Maple Syrup Festival parade I thought why not bring back some of the same look. This year is the <b>60th Shepherd Maple Syrup Festival</b>. The parade is the feature event of the festival. A goal for this year’s parade is to include more local involvement from non-profits. The SMSF committee offers prize money for the three best float entries ($300 to $100).
 
