@@ -5,13 +5,12 @@ post_title: >
   Children’s Village to be held
   Saturday, April 29 during the Shepherd
   Maple Syrup Festival
-author: ng23055
+author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/childrens-village-to-be-held-saturday-april-29-during-the-shepherd-maple-syrup-festival/
-published: true
-post_date: 2018-03-17 13:39:14
+  http://www.shepherdmaplesyrupfest.org/?p=1180
+published: false
 ---
 <img title="" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/03/null-5.jpeg" alt="" width="624" height="468" />
 
