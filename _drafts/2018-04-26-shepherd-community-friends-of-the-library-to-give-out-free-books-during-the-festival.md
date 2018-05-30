@@ -9,9 +9,8 @@ author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/shepherd-community-friends-of-the-library-to-give-out-free-books-during-the-festival/
-published: true
-post_date: 2018-04-26 01:27:40
+  http://www.shepherdmaplesyrupfest.org/?p=2182
+published: false
 ---
 <img title="" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/04/null-3.png" alt="" width="624" height="481" />
 
