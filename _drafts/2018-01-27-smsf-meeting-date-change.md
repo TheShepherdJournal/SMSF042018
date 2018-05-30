@@ -2,13 +2,12 @@
 ---
 ID: 314
 post_title: SMSF Meeting Date Change
-author: ng23055
+author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/smsf-meeting-date-change/
-published: true
-post_date: 2018-01-27 15:47:11
+  http://www.shepherdmaplesyrupfest.org/?p=314
+published: false
 ---
 The Shepherd Maple Syrup Festival committee meeting for February will be held on Wednesday, February 21 inside the Coe Township Hall at 7 p.m.
 
