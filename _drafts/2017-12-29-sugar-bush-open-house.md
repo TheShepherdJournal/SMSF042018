@@ -2,13 +2,12 @@
 ---
 ID: 236
 post_title: Sugar Bush Open House
-author: ng23055
+author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/sugar-bush-open-house/
-published: true
-post_date: 2017-12-29 02:15:21
+  http://www.shepherdmaplesyrupfest.org/?p=236
+published: false
 ---
 The Sugar Bush will be hosting an open house during the following times the weekend of the 2018 Shepherd Maple Syrup Festival:
 
