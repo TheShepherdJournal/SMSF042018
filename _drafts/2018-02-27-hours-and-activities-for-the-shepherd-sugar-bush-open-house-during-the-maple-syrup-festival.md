@@ -5,13 +5,12 @@ post_title: >
   Hours and activities for the Shepherd
   Sugar Bush Open House during the Maple
   Syrup Festival
-author: ng23055
+author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/hours-and-activities-for-the-shepherd-sugar-bush-open-house-during-the-maple-syrup-festival/
-published: true
-post_date: 2018-02-27 12:29:21
+  http://www.shepherdmaplesyrupfest.org/?p=1102
+published: false
 ---
 <img title="" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/02/null-4.jpeg" alt="" width="624" height="468" />
 
