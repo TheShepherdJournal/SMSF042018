@@ -4,13 +4,12 @@ ID: 1105
 post_title: >
   Shepherd Sugar Bush to Participate in
   Michigan Maple Weekend
-author: ng23055
+author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/shepherd-sugar-bush-to-participate-in-michigan-maple-weekend/
-published: true
-post_date: 2018-02-27 12:33:00
+  http://www.shepherdmaplesyrupfest.org/?p=1105
+published: false
 ---
 <b><img title="" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/02/null-5.jpeg" alt="" width="624" height="468" /></b>
 
