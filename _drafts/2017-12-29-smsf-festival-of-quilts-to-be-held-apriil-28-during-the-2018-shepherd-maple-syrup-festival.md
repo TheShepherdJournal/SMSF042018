@@ -5,13 +5,12 @@ post_title: >
   SMSF Festival of Quilts to be held April
   28 during the 2018 Shepherd Maple Syrup
   Festival
-author: ng23055
+author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/smsf-festival-of-quilts-to-be-held-apriil-28-during-the-2018-shepherd-maple-syrup-festival/
-published: true
-post_date: 2017-12-29 01:45:01
+  http://www.shepherdmaplesyrupfest.org/?p=224
+published: false
 ---
 <img title="" src="http://2018.shepherdmaplesyrupfestival.com/wp-content/uploads/2017/12/null.jpeg" alt="" width="624" height="468" />
 
