@@ -4,13 +4,12 @@ ID: 1195
 post_title: >
   Parade committee seeking items
   manufactured between 1957-1959
-author: ng23055
+author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/parade-committee-hoping-to-include-items-manufactured-between-1957-1959/
-published: true
-post_date: 2018-03-21 02:55:11
+  http://www.shepherdmaplesyrupfest.org/?p=1195
+published: false
 ---
 <img title="" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/03/null-2.png" alt="" width="624" height="477" />
 
