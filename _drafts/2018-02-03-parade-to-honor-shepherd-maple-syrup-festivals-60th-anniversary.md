@@ -2,13 +2,12 @@
 ---
 ID: 395
 post_title: 'Parade to honor Shepherd Maple Syrup Festival&#8217;s 60th Anniversary'
-author: ng23055
+author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/parade-to-honor-shepherd-maple-syrup-festivals-60th-anniversary/
-published: true
-post_date: 2018-02-03 16:02:52
+  http://www.shepherdmaplesyrupfest.org/?p=395
+published: false
 ---
 The theme for the Shepherd Maple Syrup Festival parade, taking place on Sunday, April 29 at 2:30 p.m., will be “Celebrate Sixty” in honor of the Shepherd Maple Syrup Festival sixtieth anniversary.
 
