@@ -8,9 +8,8 @@ author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/contact-information-for-former-smsf-queen-court-members-needed/
-published: true
-post_date: 2018-04-26 13:19:54
+  http://www.shepherdmaplesyrupfest.org/?p=2253
+published: false
 ---
 Clif Lehner is working to get in touch with former SMSF Queen court members so that he can invite them to participate during the parade on Sunday. He is seeking contact information for the following former court members from the 1960's.
 <ul>
