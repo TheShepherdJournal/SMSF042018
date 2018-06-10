@@ -4,7 +4,7 @@ ID: 1872
 post_title: >
   A Look back at the 1966 Shepherd Maple
   Syrup Festival
-author: ng23055
+author: Jon Morgan
 post_excerpt: |
   According to an article in the April 13, 1966 issue of the Shepherd Argus, the Shepherd Maple Syrup Festival was going to be held for day and would feature dancing, skydivers, pancake meals, and a parade.
   
@@ -25,7 +25,7 @@ The date is April 13, 1966. That day’s <a href="https://digmichnews.cmich.edu/
 
 Some events that were featured back then which will be held during this year’s festival are the Pancakes and Sausage meals, the parade, and antique car show. The Maple Syrup Pageant Queens were featured participants in the parade, along with the high school band and floats.
 
-I’m looking for stories about what it was like to attend a Shepherd Maple Syrup Festival in the 1960’s. Did you watch the skydivers? Or attend a record hop?
+I’m looking for stories about what it was like to attend a Shepherd Maple Syrup Festival in the 1960’s. Did you watch the skydivers? Or attend a record hop?<!--more-->
 <h2>Maple Syrup Program Complete</h2>
 <h3>Shepherd Argus</h3>
 <i>April 13, 1966</i>
