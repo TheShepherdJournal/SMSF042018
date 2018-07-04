@@ -22,4 +22,12 @@ Party in the Park will be held on Saturday, August 25, 2018 inside the Shepherd 
 </ul>
 The Party in the Park committee is also looking for volunteers to fill different roles during the event. Volunteer jobs include gate monitors, beer ticket sales, bartenders, ticket takers, truck and truck pull gate.
 
-<i>For more information, contact Staci Funnell-Bailey via email at <a href="mailto:staci_girl21@yahoo.com">staci_girl21@yahoo.com</a>.</i>
+The Party in the Park committee is also looking for volunteers who are interested in helping out during the event. Positions include:
+<ul>
+ 	<li>Gate monitors</li>
+ 	<li>Ticket sales</li>
+ 	<li>Ticket takers</li>
+ 	<li>Bartenders</li>
+ 	<li>Gate monitoring for the truck pull</li>
+</ul>
+<i>Contact Staci Funnell-Bailey via email at <a href="mailto:staci_girl21@yahoo.com">staci_girl21@yahoo.com </a>for more information about the event or to sign up as a volunteer.</i>
