@@ -14,6 +14,7 @@ Party in the Park will be held on Saturday, August 25, 2018 inside the Shepherd 
 <ul>
  	<li>Old Fashioned, Family Style picnic - 1 p.m.</li>
  	<li>Family Games - 2 p.m.</li>
+ 	<li>Ballz Fun - 1 p.m. - 7 p.m. ($5 per person for 10 minutes)</li>
  	<li>Dunk Tank</li>
  	<li>Truck &amp; Tractor Pull - Gates open at 4 p.m. (Admission is $10, 5 and under FREE)</li>
  	<li>Silent Auction - open until 11 pm</li>
