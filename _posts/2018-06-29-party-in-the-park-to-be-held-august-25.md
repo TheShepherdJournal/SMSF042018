@@ -10,6 +10,8 @@ permalink: >
 published: true
 post_date: 2018-06-29 00:42:24
 ---
+<img class="alignnone size-medium wp-image-2473" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/06/100_2748_small-300x225.jpg" alt="" width="300" height="225" />
+
 Party in the Park will be held on Saturday, August 25, 2018 inside the Shepherd Community Park on the North end of Shepherd. The event will feature:
 <ul>
  	<li>Old Fashioned, Family Style picnic - 1 p.m.</li>
