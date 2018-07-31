@@ -34,4 +34,6 @@ The Party in the Park committee is also looking for volunteers who are intereste
  	<li>Bartenders</li>
  	<li>Gate monitoring for the truck pull</li>
 </ul>
+Proceeds from the Party in the Park go towards the development of the Shepherd Community Park.
+
 <i>Contact Staci Funnell-Bailey via email at <a href="mailto:staci_girl21@yahoo.com">staci_girl21@yahoo.com </a>for more information about the event or to sign up as a volunteer.</i>
