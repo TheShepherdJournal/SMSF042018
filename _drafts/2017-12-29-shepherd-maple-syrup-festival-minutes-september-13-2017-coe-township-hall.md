@@ -1,16 +1,14 @@
 ---
----
 ID: 222
 post_title: >
   SHEPHERD MAPLE SYRUP FESTIVAL MINUTES
   September 13, 2017 Coe Township Hall
-author: ng23055
-post_excerpt:
+author: Jon Morgan
+post_excerpt: ""
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/shepherd-maple-syrup-festival-minutes-september-13-2017-coe-township-hall/
-published: true
-post_date: 2017-12-29 01:50:55
+  http://www.shepherdmaplesyrupfest.org/?p=222
+published: false
 ---
 <p style="text-align: center;">SHEPHERD MAPLE SYRUP FESTIVAL MINUTES</p>
 <p style="text-align: center;">September 13, 2017</p>
