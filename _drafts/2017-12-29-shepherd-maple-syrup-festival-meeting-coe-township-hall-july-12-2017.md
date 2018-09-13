@@ -1,16 +1,14 @@
 ---
----
 ID: 218
 post_title: >
   Shepherd Maple Syrup Festival Meeting
   Coe Township Hall July 12, 2017
-author: ng23055
-post_excerpt:
+author: Jon Morgan
+post_excerpt: ""
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/shepherd-maple-syrup-festival-meeting-coe-township-hall-july-12-2017/
-published: true
-post_date: 2017-12-29 01:48:25
+  http://www.shepherdmaplesyrupfest.org/?p=218
+published: false
 ---
 <p style="text-align: center;">Shepherd Maple Syrup Festival Meeting</i></s></b></u></p>
 <p style="text-align: center;">Coe Township Hall</i></s></b></u></p>
