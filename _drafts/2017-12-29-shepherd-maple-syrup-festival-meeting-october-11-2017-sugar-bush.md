@@ -1,16 +1,14 @@
 ---
----
 ID: 220
 post_title: >
   SHEPHERD MAPLE SYRUP FESTIVAL MEETING
   OCTOBER 11, 2017 SUGAR BUSH
-author: ng23055
-post_excerpt:
+author: Jon Morgan
+post_excerpt: ""
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/shepherd-maple-syrup-festival-meeting-october-11-2017-sugar-bush/
-published: true
-post_date: 2017-12-29 01:48:22
+  http://www.shepherdmaplesyrupfest.org/?p=220
+published: false
 ---
 <p>SHEPHERD MAPLE SYRUP FESTIVAL MEETING</p>
 <p>OCTOBER 11, 2017</p>
