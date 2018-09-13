@@ -1,16 +1,14 @@
 ---
----
 ID: 324
 post_title: >
   Shepherd Maple Syrup Festival Introduces
   new email newsletter and other features
-author: ng23055
-post_excerpt:
+author: Jon Morgan
+post_excerpt: ""
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/shepherd-maple-syrup-festival-introduces-new-email-newsletter-and-other-features/
-published: true
-post_date: 2018-01-27 16:59:53
+  http://www.shepherdmaplesyrupfest.org/?p=324
+published: false
 ---
 &nbsp;
 
