@@ -1,11 +1,10 @@
 ---
----
 ID: 2175
 post_title: >
   Winners of 2018 SMSF Princess Pageant
   Announced
 author: Jon Morgan
-post_excerpt:
+post_excerpt: ""
 layout: post
 permalink: >
   http://www.shepherdmaplesyrupfest.org/?p=2175
