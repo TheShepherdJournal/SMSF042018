@@ -1,14 +1,12 @@
 ---
----
 ID: 1842
 post_title: Cement Tractor Pull
-author: ng23055
-post_excerpt:
+author: Jon Morgan
+post_excerpt: ""
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/cement-tractor-pull/
-published: true
-post_date: 2018-04-07 02:15:43
+  http://www.shepherdmaplesyrupfest.org/?p=1842
+published: false
 ---
 <h2>Tractor Pull</h2>
 Shepherd Maple Syrup Festival
