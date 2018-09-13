@@ -5,8 +5,9 @@ author: Jon Morgan
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/?p=589
-published: false
+  http://www.shepherdmaplesyrupfest.org/parade-2016-photo-gallery/
+published: true
+post_date: 2018-02-03 17:30:44
 ---
 Here are photos taken during the SMSF Parade in 2016.
 
