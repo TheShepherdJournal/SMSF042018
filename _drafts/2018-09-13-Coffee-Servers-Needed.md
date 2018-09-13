@@ -1,9 +1,8 @@
 ---
----
 ID: 2057
 post_title: Coffee Servers Needed
 author: Jon Morgan
-post_excerpt:
+post_excerpt: ""
 layout: post
 permalink: >
   http://www.shepherdmaplesyrupfest.org/?p=2057
