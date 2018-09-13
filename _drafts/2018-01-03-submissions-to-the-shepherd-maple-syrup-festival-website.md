@@ -1,16 +1,14 @@
 ---
----
 ID: 277
 post_title: >
   Submissions to the Shepherd Maple Syrup
   Festival Website
-author: ng23055
-post_excerpt:
+author: Jon Morgan
+post_excerpt: ""
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/submissions-to-the-shepherd-maple-syrup-festival-website/
-published: true
-post_date: 2018-01-03 23:39:58
+  http://www.shepherdmaplesyrupfest.org/?p=277
+published: false
 ---
 Submissions are currently being accepted on the website for the 2018 Shepherd Maple Syrup Festival. I am especially interested in publishing descriptions of events, festival related news, photos, and general stories or memories from previous festivals.
 
