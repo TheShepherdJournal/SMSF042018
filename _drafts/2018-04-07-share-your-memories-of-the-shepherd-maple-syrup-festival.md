@@ -1,16 +1,14 @@
 ---
----
 ID: 1880
 post_title: >
   Share your memories from past Shepherd
   Maple Syrup Festivals
-author: ng23055
-post_excerpt:
+author: Jon Morgan
+post_excerpt: ""
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/share-your-memories-of-the-shepherd-maple-syrup-festival/
-published: true
-post_date: 2018-04-07 15:56:38
+  http://www.shepherdmaplesyrupfest.org/?p=1880
+published: false
 ---
 In honor of the festival's 60th anniversary, I am looking for memories and stories from past festivals. They could be descriptions of what the events were like, favorite events, what it was like to volunteer, what your experience attending the festival was as a kid and how it differed from what its like as an adult, taking your kids and experiencing the festival through their eyes,or really just anything else.
 
