@@ -1,14 +1,12 @@
 ---
----
 ID: 2447
 post_title: Party in the Park to be held August 25
 author: Jon Morgan
-post_excerpt:
+post_excerpt: ""
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/party-in-the-park-to-be-held-august-25/
-published: true
-post_date: 2018-06-29 00:42:24
+  http://www.shepherdmaplesyrupfest.org/?p=2447
+published: false
 ---
 <img class="alignnone size-medium wp-image-2473" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/06/100_2748_small-300x225.jpg" alt="" width="300" height="225" />
 
