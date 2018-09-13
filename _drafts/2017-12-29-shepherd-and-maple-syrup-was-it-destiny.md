@@ -1,14 +1,12 @@
 ---
----
 ID: 252
 post_title: Shepherd and Maple Syrup was it destiny?
-author: ng23055
-post_excerpt:
+author: Jon Morgan
+post_excerpt: ""
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/shepherd-and-maple-syrup-was-it-destiny/
-published: true
-post_date: 2017-12-29 04:26:14
+  http://www.shepherdmaplesyrupfest.org/?p=252
+published: false
 ---
 It seems that Shepherd/Salt River and Maple Syrup were destined to become one. Back in the early 1860' s, the Shepherd pioneers collected sap from the abundant Maple trees in the area. Since there were no stores in the general area in which they could buy sugar, candy, or syrup, they boiled sap and made their own.
 
