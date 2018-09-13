@@ -1,11 +1,10 @@
 ---
----
 ID: 2120
 post_title: >
   Brenda Loomis Band to perform on April
   26
 author: Jon Morgan
-post_excerpt:
+post_excerpt: ""
 layout: post
 permalink: >
   http://www.shepherdmaplesyrupfest.org/?p=2120
