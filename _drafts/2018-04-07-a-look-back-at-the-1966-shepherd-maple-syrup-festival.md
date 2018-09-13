@@ -1,5 +1,4 @@
 ---
----
 ID: 1872
 post_title: >
   A Look back at the 1966 Shepherd Maple
@@ -15,9 +14,8 @@ post_excerpt: |
   You can also share memories on the SMSF Forum or send email to editor@shepherdhistory.org.
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/a-look-back-at-the-1966-shepherd-maple-syrup-festival/
-published: true
-post_date: 2018-04-07 15:10:33
+  http://www.shepherdmaplesyrupfest.org/?p=1872
+published: false
 ---
 <img title="" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/04/null.png" alt="" width="624" height="304" />
 
