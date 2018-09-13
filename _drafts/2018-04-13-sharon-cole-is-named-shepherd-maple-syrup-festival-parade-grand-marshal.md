@@ -1,16 +1,14 @@
 ---
----
 ID: 1155
 post_title: >
   Sharon Cole is Named Shepherd Maple
   Syrup Festival Parade Grand Marshal
-author: ng23055
-post_excerpt:
+author: Jon Morgan
+post_excerpt: ""
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/sharon-cole-is-named-shepherd-maple-syrup-festival-parade-grand-marshal/
-published: true
-post_date: 2018-04-13 13:46:11
+  http://www.shepherdmaplesyrupfest.org/?p=1155
+published: false
 ---
 <img class="alignnone size-medium wp-image-1963" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/03/100_4765-300x225.jpg" alt="" width="300" height="225" />
 
