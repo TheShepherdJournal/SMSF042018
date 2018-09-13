@@ -1,9 +1,8 @@
 ---
----
 ID: 2216
 post_title: Field Reporters Needed
 author: Jon Morgan
-post_excerpt:
+post_excerpt: ""
 layout: post
 permalink: >
   http://www.shepherdmaplesyrupfest.org/?p=2216
