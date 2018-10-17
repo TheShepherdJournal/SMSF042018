@@ -5,9 +5,8 @@ author: Jon Morgan
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/help-wanted-parade-director/
-published: true
-post_date: 2018-09-13 03:53:34
+  http://www.shepherdmaplesyrupfest.org/?p=2493
+published: false
 ---
 The Shepherd Maple Syrup Festival is currently seeking a volunteer who is interested in serving the role of Parade Chair. This person would be responsible for the promotion, planning, budgeting, and implementation for the parade during the annual Shepherd Maple Syrup Festival, held in April.
 
