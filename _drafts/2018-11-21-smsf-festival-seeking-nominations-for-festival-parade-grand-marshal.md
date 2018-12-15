@@ -8,9 +8,8 @@ author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/smsf-festival-seeking-nominations-for-festival-parade-grand-marshal/
-published: true
-post_date: 2018-11-21 20:24:35
+  http://www.shepherdmaplesyrupfest.org/?p=2577
+published: false
 ---
 Each year, a member of the Shepherd community is honored for their contributions to the Shepherd Maple Syrup Festival by being named Grand Marshal of the festival parade. They may have chaired an event, volunteered, or supported the festival in some other way.
 
