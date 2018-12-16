@@ -10,4 +10,4 @@ permalink: >
 published: true
 post_date: 2018-11-21 01:04:26
 ---
-[nanosupport_knowledgebase]
+[kbe_knowledgebase]
