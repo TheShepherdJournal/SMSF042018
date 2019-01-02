@@ -14,10 +14,6 @@ permalink: >
 published: true
 post_date: 2019-01-02 22:42:33
 ---
-<!-- wp:image {"id":1808} -->
-<figure class="wp-block-image"><img src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/03/103_6191-1024x768.jpg" alt="" class="wp-image-1808"/></figure>
-<!-- /wp:image -->
-
 <!-- wp:paragraph -->
 <p> The Village of Shepherd will hold its 61st Annual Maple Syrup Festival on April 25-28, 2019. Started in 1958, the long running tradition will once again feature pancake and sausage meals flavored with Shepherd’s own, locally produced syrup. Returning events will include amusement rides, a craft show, car show, parade, live music performers, and more.</p>
 <!-- /wp:paragraph -->
