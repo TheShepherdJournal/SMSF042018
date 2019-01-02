@@ -6,9 +6,8 @@ author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/smsf-public-relations-strategy/
-published: true
-post_date: 2018-11-14 22:55:19
+  http://www.shepherdmaplesyrupfest.org/?p=2556
+published: false
 ---
 The SMSF Website will once again provide the following type of information for visitors:
 <ul>
