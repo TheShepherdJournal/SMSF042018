@@ -10,8 +10,9 @@ author: Jon Morgan
 post_excerpt:
 layout: post
 permalink: >
-  http://www.shepherdmaplesyrupfest.org/?p=2901
-published: false
+  http://www.shepherdmaplesyrupfest.org/the-61st-annual-shepherd-maple-syrup-festival-is-set-to-take-place-in-shepherd-during-the-last-full-weekend-of-april-2019/
+published: true
+post_date: 2019-01-02 22:42:33
 ---
 <!-- wp:image {"id":1808} -->
 <figure class="wp-block-image"><img src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/03/103_6191-1024x768.jpg" alt="" class="wp-image-1808"/></figure>
