@@ -13,8 +13,8 @@ permalink: >
   http://www.shepherdmaplesyrupfest.org/?p=2901
 published: false
 ---
-<!-- wp:image -->
-<figure class="wp-block-image"><img alt=""/></figure>
+<!-- wp:image {"id":1808} -->
+<figure class="wp-block-image"><img src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2018/03/103_6191-1024x768.jpg" alt="" class="wp-image-1808"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
