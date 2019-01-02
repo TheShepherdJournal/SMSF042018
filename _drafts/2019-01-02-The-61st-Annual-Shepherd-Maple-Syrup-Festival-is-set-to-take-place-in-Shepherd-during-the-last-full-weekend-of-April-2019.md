@@ -1,7 +1,11 @@
 ---
 ---
 ID: 2901
-post_title: SMSF Press Release
+post_title: >
+  The 61st Annual Shepherd Maple Syrup
+  Festival is set to take place in
+  Shepherd during the last full weekend of
+  April 2019
 author: Jon Morgan
 post_excerpt:
 layout: post
@@ -10,8 +14,7 @@ permalink: >
 published: false
 ---
 <!-- wp:paragraph -->
-<p>The 61st Annual Shepherd Maple Syrup Festival is set to take place in Shepherd during the last full weekend of April 2019<br>
-The Village of Shepherd will hold its 61st Annual Maple Syrup Festival on April 25-28, 2019. Started in 1958, the long running tradition will once again feature pancake and sausage meals flavored with Shepherd’s own, locally produced syrup. Returning events will include amusement rides, a craft show, car show, parade, live music performers, and more.</p>
+<p> The Village of Shepherd will hold its 61st Annual Maple Syrup Festival on April 25-28, 2019. Started in 1958, the long running tradition will once again feature pancake and sausage meals flavored with Shepherd’s own, locally produced syrup. Returning events will include amusement rides, a craft show, car show, parade, live music performers, and more.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
