@@ -10,8 +10,7 @@ permalink: >
 published: true
 post_date: 2018-11-20 23:59:07
 ---
-<p> </p>
-<p>[wpuf_form id="2925"]</p>
+<p> [wpuf_form id="2925"]</p>
 
 <!-- wp:paragraph -->
 <p></p>
